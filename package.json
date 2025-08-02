@@ -1,0 +1,24 @@
+{
+  "name": "sleek-blog",
+  "version": "1.0.0",
+  "description": "A modern, sleek, and simple blog website template",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server .",
+    "build": "echo 'No build process needed for static site'",
+    "deploy": "echo 'Deploy to your preferred hosting platform'"
+  },
+  "keywords": [
+    "blog",
+    "website",
+    "template",
+    "responsive",
+    "modern",
+    "minimal"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
